@@ -1,0 +1,11 @@
+C:\Users\Josia\source\repos\Motos\Motos\bin\Debug\Motos.exe.config
+C:\Users\Josia\source\repos\Motos\Motos\bin\Debug\Motos.exe
+C:\Users\Josia\source\repos\Motos\Motos\bin\Debug\Motos.pdb
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.csproj.AssemblyReference.cache
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.Form1.resources
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.Properties.Resources.resources
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.Resultados.resources
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.csproj.GenerateResource.cache
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.csproj.CoreCompileInputs.cache
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.exe
+C:\Users\Josia\source\repos\Motos\Motos\obj\Debug\Motos.pdb

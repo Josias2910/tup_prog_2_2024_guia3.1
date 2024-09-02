@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josia\\source\\repos\\Motos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\evaluadorlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\evaluadorlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\evaluador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\evaluador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\evaluadoranual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\evaluadoranual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|c:\\users\\josia\\source\\repos\\motos\\motos\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD890C0D-4ABC-4CB9-B5FE-19070ED05EAF}|Motos\\Motos.csproj|solutionrelative:motos\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Form1.cs",
+              "RelativeDocumentMoniker": "Motos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Form1.cs",
+              "RelativeToolTip": "Motos\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:17:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resultados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Resultados.cs",
+              "RelativeDocumentMoniker": "Motos\\Resultados.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Resultados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Motos\\Resultados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:14:52.088Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Form1.cs",
+              "RelativeDocumentMoniker": "Motos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Motos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:34:23.369Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvaluadorAnual.cs",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\EvaluadorAnual.cs",
+              "RelativeDocumentMoniker": "Motos\\EvaluadorAnual.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\EvaluadorAnual.cs",
+              "RelativeToolTip": "Motos\\EvaluadorAnual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:49:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvaluadorLineal.cs",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\EvaluadorLineal.cs",
+              "RelativeDocumentMoniker": "Motos\\EvaluadorLineal.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\EvaluadorLineal.cs",
+              "RelativeToolTip": "Motos\\EvaluadorLineal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:45:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Moto.cs",
+              "RelativeDocumentMoniker": "Motos\\Moto.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Moto.cs",
+              "RelativeToolTip": "Motos\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:42:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evaluador.cs",
+              "DocumentMoniker": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Evaluador.cs",
+              "RelativeDocumentMoniker": "Motos\\Evaluador.cs",
+              "ToolTip": "C:\\Users\\Josia\\source\\repos\\Motos\\Motos\\Evaluador.cs",
+              "RelativeToolTip": "Motos\\Evaluador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:35:11.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
